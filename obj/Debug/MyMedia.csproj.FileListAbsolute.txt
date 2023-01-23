@@ -1,0 +1,327 @@
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.config
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.pdb
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmHome.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmMain.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Properties.Resources.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.pdb
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm1_Watchlist.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm2_Add.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm3_Report.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Zstandard.Net.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Renci.SshNet.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Memory.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Buffers.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.config
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.CopyComplete
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MaterialSkin.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.MsgBox_Exit.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\stdole.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySql.Data.xml
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csprojAssemblyReference.cache
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.config
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm1_Watchlist.resources
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm2_Add.resources
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm3_Report.resources
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmHome.resources
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmMain.resources
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.MsgBox_Exit.resources
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Properties.Resources.resources
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.pdb
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.config
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.pdb
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MaterialSkin.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySql.Data.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySqlBackup.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Zstandard.Net.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\stdole.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Memory.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Buffers.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.CopyComplete
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmLogin.resources
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.manifest
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.application
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.manifest
+C:\Users\Manager\Desktop\DS\07-20 (ConexãoMySQL)\backups\04 - last\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.application
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.config
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.manifest
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.application
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.pdb
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MaterialSkin.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySqlBackup.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Zstandard.Net.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\stdole.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Memory.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Buffers.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.config
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm1_Watchlist.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm2_Add.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm3_Report.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmHome.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmLogin.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmMain.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.MsgBox_Exit.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Properties.Resources.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.GenerateResource.cache
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.manifest
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.application
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.CopyComplete
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.pdb
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.config
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.manifest
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.application
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.pdb
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MaterialSkin.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySqlBackup.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Zstandard.Net.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\stdole.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Memory.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Buffers.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.config
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm1_Watchlist.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm2_Add.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm3_Report.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmHome.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmLogin.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmMain.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.MsgBox_Exit.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Properties.Resources.resources
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.GenerateResource.cache
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.manifest
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.application
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.CopyComplete
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.pdb
+C:\Users\Antonio\Downloads\Gabriel\+ETEC2021\DS\07-20 (ConexãoMySQL)\backups\school\2021-10-25\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmSignup.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.config
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.manifest
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.application
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.pdb
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MaterialSkin.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySql.Data.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\MySqlBackup.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Zstandard.Net.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\stdole.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Memory.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\System.Buffers.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csprojAssemblyReference.cache
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.config
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm1_Watchlist.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm2_Add.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm3_Report.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmHome.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmLogin.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmMain.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmSignup.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.MsgBox_Exit.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Properties.Resources.resources
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe.manifest
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.application
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\MyMedia.csproj.CopyComplete
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.pdb
+C:\Users\Manager\Desktop\Gabriel Esteve Aqui\DS\2021-11-09\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmAbout.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\ModernUI.exe.config
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\ModernUI.exe.manifest
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\ModernUI.application
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\ModernUI.exe
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\ModernUI.pdb
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\MaterialSkin.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\MySqlBackup.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\Google.Protobuf.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\Zstandard.Net.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\Renci.SshNet.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\stdole.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\System.Memory.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\System.Buffers.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\bin\Debug\MySql.Data.xml
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\MyMedia.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.exe.config
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.FrmAbout.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.Frm1_Watchlist.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.Frm2_Add.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.Frm3_Report.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.FrmHome.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.FrmLogin.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.FrmMain.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.FrmSignup.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.MsgBox_Exit.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.Properties.Resources.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\MyMedia.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\MyMedia.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.exe.manifest
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.application
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\MyMedia.csproj.CopyComplete
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.exe
+C:\Users\Antonio\source\repos\DS 2021\07-20 (MyMedia)\MyMedia\obj\Debug\ModernUI.pdb

@@ -1,0 +1,24 @@
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\bin\Debug\ModernUI.exe.config
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\bin\Debug\ModernUI.exe
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\bin\Debug\ModernUI.pdb
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.FrmMain.resources
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.Properties.Resources.resources
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.exe
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.pdb
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.Frm1.resources
+C:\Users\Antonio\source\repos\DS 2021\06-03 (ModernUI)\ModernUI\obj\Debug\ModernUI.FrmHome.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe.config
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.exe
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\bin\Debug\ModernUI.pdb
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Frm1.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmHome.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.FrmMain.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.Properties.Resources.resources
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.exe
+C:\Users\Antonio\source\repos\DS 2021\07-20 (Conexão MySQL)\ProjetoConexaoSQL\obj\Debug\ModernUI.pdb
